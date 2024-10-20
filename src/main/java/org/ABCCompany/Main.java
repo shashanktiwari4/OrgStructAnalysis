@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         Map<Integer, Employee> empMap = LoadCSVConfig.loadCSV();
         FindManagerData findManagerData =new FindManagerData();
-        findManagerData.findManagerWithLessSalary(empMap);
+        findManagerData.findManagerWithLessAndMoreSalary(empMap);
         FindHierarchy findHierarchy =new FindHierarchy();
         findHierarchy.findHierarchy(empMap);
     }
