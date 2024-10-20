@@ -35,7 +35,7 @@ public class FindManagerData {
             df.setRoundingMode(RoundingMode.UP);
 
             double diff = Double.valueOf(df.format(diffPer));
-            if (diff <= 20) {
+            if (diff < 20) {
                 mngWithLessSal.put(diff, empMap.get(mngId));
             }
             if (diff > 50) {
