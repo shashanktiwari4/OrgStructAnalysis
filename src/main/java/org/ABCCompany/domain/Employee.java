@@ -1,4 +1,4 @@
-package org.ABCCompany;
+package org.ABCCompany.domain;
 
 import java.util.Objects;
 
