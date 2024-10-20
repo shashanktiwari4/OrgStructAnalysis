@@ -1,0 +1,15 @@
+Id,firstName,lastName,salary,managerId
+123,Joe,Doe,60000,
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+306,Jon,Haugsand,32000,305
+307,Tom,Hanks,29000,306
+308,Tom,Cruise,23000,307
+309,Mary,Tum,38000,125
+310,Bret,Lee,34000,305
+311,Ranjit,kumar,6000,124
+312,Akshay,kumar,20000,300
+313,Vinu,kumar,36000,309
+314,Vishnu,Bhatt,9500,125
