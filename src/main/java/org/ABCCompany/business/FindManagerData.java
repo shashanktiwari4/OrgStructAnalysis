@@ -1,4 +1,4 @@
-package org.ABCCompany.Business;
+package org.ABCCompany.business;
 
 import org.ABCCompany.Main;
 import org.ABCCompany.domain.Employee;

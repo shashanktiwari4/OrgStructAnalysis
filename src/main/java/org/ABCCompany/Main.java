@@ -1,7 +1,7 @@
 package org.ABCCompany;
 
-import org.ABCCompany.Business.FindHierarchy;
-import org.ABCCompany.Business.FindManagerData;
+import org.ABCCompany.business.FindHierarchy;
+import org.ABCCompany.business.FindManagerData;
 import org.ABCCompany.config.LoadCSVConfig;
 import org.ABCCompany.domain.Employee;
 
