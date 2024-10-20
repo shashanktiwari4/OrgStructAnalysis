@@ -1,4 +1,4 @@
-package org.example;
+package org.ABCCompany;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
