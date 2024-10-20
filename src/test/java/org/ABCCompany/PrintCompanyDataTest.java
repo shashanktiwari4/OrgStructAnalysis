@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
-public class CompanyDataTest {
+public class PrintCompanyDataTest {
 
     /**
      * Rigorous Test :-)
